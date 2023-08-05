@@ -9,6 +9,7 @@ simplest possible, so much so that you can learn in 10 minutes, why
 limited to performing the most common functions quickly.
 But there are also some special and unique features.
 
+Required libfuse2
 https://docs.google.com/document/d/1QSasd49N4LGl79ks2HEN6ERZ211bL6NkK9wSn8XbJL8/edit
 
 ## Duno is the interpreter of the DunoCode language.
